@@ -31,13 +31,17 @@ Spin the reels, test your luck, and experience the thrill of a mini casino right
 ## 🎮 How to Play
 
 -Start the program.
+
 -Enter your bet.
+
 -Spin the reels.
+
 -Match symbols to win credits!
 
 ## 🛠️ Tech Stack
 
 -Java
+
 -IntelliJ IDEA
 
 ## 🤝 Contributing
